@@ -8,7 +8,10 @@ public class Oops {
          Scanner sc = new Scanner(System.in);
          Oops Abhi = new Oops();
         System.out.println(Abhi.Age);
-
+    
+        // What is an Object?
+        // Object is a real entity created from a class What is an Object?
+        // Object is a real entity created from a class 
 
 
     }
