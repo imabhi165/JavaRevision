@@ -38,7 +38,6 @@ public class Basics {
       // String input(full line).
       System.out.println("Enter your Name : ");
       String name = sc.nextLine();
-
       // char input.
       System.out.println("Enter gender(M/F): ");
       char gender = sc.next().charAt(0);
@@ -53,6 +52,5 @@ public class Basics {
       System.out.println("Weight: " + weight);
       System.out.println("---------------------------------");
     }
-
   }
 }
